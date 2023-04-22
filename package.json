@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "electrom": "^19.3.1"
+  }
+}
